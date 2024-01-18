@@ -1,0 +1,31 @@
+.Stop_watch{
+    width: 60%;
+    height: auto;
+  margin-top: 8rem;
+    background-color: #E15241;
+}
+.Stop_watch h1{
+    font-size: 5rem;
+    line-height: 5rem;
+    font-weight: 700;
+    margin-top: 3rem;
+}
+.Stop_watch_div_h2{
+    text-align:left ;
+    color: rgb(36, 33, 33);
+    width: 320px;
+    height: 80px;
+}
+.btn_section{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.lap{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    border-top: solid 1px black;
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
